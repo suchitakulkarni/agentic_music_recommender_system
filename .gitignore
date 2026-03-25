@@ -1,0 +1,49 @@
+.DS_Store
+main_old.py
+data/
+data/Tabular
+data/Cover_Art
+data/*.csv
+similarity_era_analysis_v2.py
+results/*.csv
+results*
+src/agents/analysis_assistant_v0.py
+src/agents/*_old.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Data
+data/
+*.csv
+*.txt
+
+# Results
+results/
+*.png
+*.npy
+*.json
+*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models
+models/
+*.bin
+*.pt
+*.pth
