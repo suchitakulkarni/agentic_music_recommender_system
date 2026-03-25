@@ -47,3 +47,5 @@ models/
 *.bin
 *.pt
 *.pth
+.ipynb_checkpoints/
+.streamlit/
