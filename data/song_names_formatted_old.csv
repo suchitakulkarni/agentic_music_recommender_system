@@ -1,0 +1,115 @@
+,Album,Song_Name,Song_sentiment_primary,Song_sentiment_secondary,Formatted_name
+0,Midnights,MidnightRain,Romantic, Heartbreak/Break-up,Midnight Rain
+1,Midnights,Maroon,Romantic, Heartbreak/Break-up,Maroon
+2,Midnights,Labyrinth,Romantic, Romantic Optimism,Labyrinth
+3,Midnights,YoureOnYourOwn_Kid,Romantic, Heartbreak/Break-up,You're On Your Own Kid
+4,Midnights,SnowOnTheBeach,Romantic, Romantic Optimism,Snow On The Beach
+5,Midnights,Question____,Romantic, Heartbreak/Break-up,Question
+6,Midnights,VigilanteShit,Non-Romantic, Introspection,Vigilante Shit
+7,Midnights,Karma,Non-Romantic, Introspection,Karma
+8,Midnights,SweetNothing,Romantic, Romantic Optimism,Sweet Nothing
+9,Midnights,Bejeweled,Romantic, Heartbreak/Break-up,Bejeweled
+10,Midnights,Anti_Hero,Non-Romantic, Introspection,Anti Hero
+11,Midnights,Mastermind,Romantic, Romantic Optimism,Mastermind
+12,Midnights,LavenderHaze,Romantic, Romantic Optimism,Lavender Haze
+13,Red,ComeBack___BeHere,Romantic, Heartbreak/Break-up,Come Back Be Here
+14,Red,IAlmostDo,Romantic, Heartbreak/Break-up,I Almost Do
+15,Red,Treacherous,Romantic, Romantic Optimism,Treacherous
+16,Red,TheLastTime,Romantic, Heartbreak/Break-up,The Last Time
+17,Red,AllTooWell,Romantic, Heartbreak/Break-up,All Too Well
+18,Red,StateofGrace,Romantic, Romantic Optimism,State of Grace
+19,Red,StayStayStay,Romantic, Romantic Optimism,Stay Stay Stay
+20,Red,EverythingHasChanged,Romantic, Romantic Optimism,Everything Has Changed
+21,Red,Starlight,Romantic, Romantic Optimism,Starlight
+22,Red,TheLuckyOne,Non-Romantic, Introspection,The Lucky One
+23,Red,HolyGround,Romantic, Heartbreak/Break-up,Holy Ground
+24,Red,WeAreNeverEverGettingBackTogether,Romantic, Heartbreak/Break-up,WeAreNeverEverGettingBackTogether
+25,Red,Red,Romantic, Heartbreak/Break-up,Red
+26,Red,SadBeautifulTragic,Romantic, Heartbreak/Break-up,Sad Beautiful Tragic
+27,Red,BeginAgain,Romantic, Romantic Optimism,Begin Again
+28,Red,IKnewYouWereTrouble,Romantic, Heartbreak/Break-up,I Knew You Were Trouble
+29,Red,22,Romantic, Romantic Optimism,22 (or Twenty-Two)
+30,Red,GirlatHome,Romantic, Heartbreak/Break-up,Girl at Home
+31,Red,TheMomentIKnew,Romantic, Heartbreak/Break-up,The Moment I Knew
+32,1989,BadBlood,Romantic, Heartbreak/Break-up,Bad Blood
+33,1989,BlankSpace,Romantic, Romantic Optimism,Blank Space
+34,1989,IKnowPlaces,Romantic, Romantic Optimism,I Know Places
+35,1989,ThisLove,Romantic, Romantic Optimism,This Love
+36,1989,OutOfTheWoods,Romantic, Romantic Optimism,Out Of The Woods
+37,1989,WildestDreams,Romantic, Romantic Optimism,
+38,1989,WelcometoNewYork,Non-Romantic, Introspection,Welcome to New York
+39,1989,AllYouHadtoDoWasStay,Romantic, Heartbreak/Break-up,All You Had to Do Was Stay
+40,1989,ShakeItOff,Non-Romantic, Introspection,Shake It Off
+41,1989,Style,Romantic, Romantic Optimism,Style
+42,1989,1989_Booklet_,Romantic, Heartbreak/Break-up,1989 Booklet
+43,1989,IWishYouWould,Romantic, Heartbreak/Break-up,I Wish You Would
+44,1989,Clean,Romantic, Heartbreak/Break-up,Clean
+45,1989,HowYouGetTheGirl,Romantic, Romantic Optimism,How You Get The Girl
+46,Reputation,IDidSomethingBad,Non-Romantic, Introspection,I Did Something Bad
+47,Reputation,___ReadyforIt_,Romantic, Romantic Optimism,Ready for It
+48,Reputation,Delicate,Romantic, Romantic Optimism,Delicate
+49,Reputation,DontBlameMe,Romantic, Romantic Optimism,Don't Blame Me
+50,Reputation,WhySheDisappeared_Poem_,Non-Romantic, Introspection,Why She Disappeared Poem
+51,Reputation,LookWhatYouMadeMeDo,Romantic, Heartbreak/Break-up,Look What You Made Me Do
+52,Reputation,EndGame,Romantic, Romantic Optimism,End Game
+53,Reputation,CallItWhatYouWant,Romantic, Romantic Optimism,Call It What You Want
+54,Reputation,NewYearsDay,Romantic, Romantic Optimism,New Year's Day
+55,Reputation,Gorgeous,Romantic, Heartbreak/Break-up,Gorgeous
+56,Reputation,GetawayCar,Romantic, Heartbreak/Break-up,Getaway Car
+57,Reputation,ReputationMagazineVol_1,Non-Romantic, Introspection,Text
+58,Reputation,Dress,Romantic, Romantic Optimism,Dress
+59,Reputation,KingofMyHeart,Romantic, Romantic Optimism,King of My Heart
+60,Reputation,DancingWithOurHandsTied,Romantic, Romantic Optimism,Dancing With Our Hands Tied
+61,Reputation,SoItGoes___,Romantic, Romantic Optimism,So It Goes
+62,Reputation,Reputation_Prologue_,Non-Romantic, Introspection,Reputation Prologue
+63,Reputation,IfYoureAnythingLikeMe_Poem_,Non-Romantic, Introspection,If You're Anything Like Me Poem
+64,Reputation,ThisIsWhyWeCantHaveNiceThings,Non-Romantic, Introspection,This Is Why We Can't Have Nice Things
+65,Lover,ItsNicetoHaveaFriend,Non-Romantic, Introspection,It's Nice to Have a Friend
+66,Lover,ME_,Romantic, Romantic Optimism,Me
+67,Lover,CorneliaStreet,Romantic, Heartbreak/Break-up,Cornelia Street
+68,Lover,YouNeedToCalmDown,Non-Romantic, Introspection,You Need To Calm Down
+69,Lover,TheMan,Non-Romantic, Introspection,The Man
+70,Lover,Lover,Romantic, Romantic Optimism,Lover
+71,Lover,TheArcher,Romantic, Heartbreak/Break-up,The Archer
+72,Lover,DeathbyaThousandCuts,Romantic, Heartbreak/Break-up,Death by a Thousand Cuts
+73,Lover,PaperRings,Romantic, Romantic Optimism,Paper Rings
+74,Lover,Afterglow,Romantic, Heartbreak/Break-up,Afterglow
+75,Lover,SoonYoullGetBetter,Non-Romantic, Introspection,Soon You'll Get Better
+76,Lover,IForgotThatYouExisted,Romantic, Heartbreak/Break-up,I Forgot That You Existed
+77,Lover,Daylight,Romantic, Romantic Optimism,Daylight
+78,Lover,MissAmericana_TheHeartbreakPrince,Romantic, Heartbreak/Break-up,Miss Americana The Heartbreak Prince
+79,Lover,CruelSummer,Romantic, Romantic Optimism,Cruel Summer
+80,Lover,LondonBoy,Romantic, Romantic Optimism,London Boy
+81,Lover,FalseGod,Romantic, Romantic Optimism,False God
+82,Lover,IThinkHeKnows,Romantic, Romantic Optimism,I Think He Knows
+83,Folklore,thelastgreatamericandynasty,Non-Romantic, Introspection,The Last Great American Dynasty
+84,Folklore,thisismetrying,Romantic, Heartbreak/Break-up,This Is Me Trying
+85,Folklore,epiphany,Non-Romantic, Introspection,Epiphany
+86,Folklore,mytearsricochet,Romantic, Heartbreak/Break-up,My Tears Ricochet
+87,Folklore,exile,Romantic, Heartbreak/Break-up,Exile
+88,Folklore,mirrorball,Romantic, Romantic Optimism,Mirror Ball
+89,Folklore,seven,Romantic, Romantic Optimism,seven
+90,Folklore,peace,Romantic, Romantic Optimism,Peace
+91,Folklore,the1,Romantic, Heartbreak/Break-up,The 1
+92,Folklore,cardigan,Romantic, Romantic Optimism,Cardigan
+93,Folklore,betty,Romantic, Heartbreak/Break-up,Betty
+94,Folklore,invisiblestring,Romantic, Romantic Optimism,Invisible String
+95,Folklore,august,Romantic, Heartbreak/Break-up,August
+96,Folklore,hoax,Romantic, Heartbreak/Break-up,Hoax
+97,Folklore,madwoman,Non-Romantic, Introspection,Mad Woman
+98,Folklore,illicitaffairs,Romantic, Heartbreak/Break-up,Illicit Affairs
+99,Evermore,tisthedamnseason,Romantic, Heartbreak/Break-up,This Is The Damn Season
+100,Evermore,evermore,Romantic, Heartbreak/Break-up,Evermore
+101,Evermore,happiness,Romantic, Heartbreak/Break-up,Happiness
+102,Evermore,tolerateit,Romantic, Heartbreak/Break-up,Tolerate It
+103,Evermore,willow,Romantic, Romantic Optimism,Willow
+104,Evermore,marjorie,Non-Romantic, Introspection,Marjorie
+105,Evermore,ivy,Romantic, Heartbreak/Break-up,Ivy
+106,Evermore,dorothea,Romantic, Romantic Optimism,Dorothea
+107,Evermore,closure,Romantic, Heartbreak/Break-up,Closure
+108,Evermore,cowboylikeme,Romantic, Heartbreak/Break-up,Cowboy Like Me
+109,Evermore,longstoryshort,Romantic, Romantic Optimism,Long Story Short
+110,Evermore,goldrush,Romantic, Heartbreak/Break-up,Gold Rush
+111,Evermore,nobody_nocrime,Non-Romantic, Introspection,Nobody No Crime
+112,Evermore,champagneproblems,Romantic, Heartbreak/Break-up,Champagne Problems
+113,Evermore,coneyisland,Romantic, Heartbreak/Break-up,Coney Island
