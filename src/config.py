@@ -132,12 +132,12 @@ BERTOPIC_UMAP_NEIGHBORS = 10
 RANDOM_SEED = 42
 
 try:
-    nlp = spacy.load("en_core_web_sm")
+    nlp = spacy.blank("en")
 except OSError:
     print("Downloading spaCy model...")
     import subprocess
     subprocess.run(["python", "-m", "spacy", "download", "en_core_web_sm"])
-    nlp = spacy.load("en_core_web_sm")
+    nlp = spacy.blank("en")
 
 
 # Add to config.py
