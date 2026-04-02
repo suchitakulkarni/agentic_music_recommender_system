@@ -70,7 +70,7 @@ music_intelligence_agents/
 │   ├── config.py
 │   ├── data_loading.py
 │   ├── era_analysis.py
-│   ├── similarity_analysis.py      # fix the double-encoding bug before push
+│   ├── similarity_analysis.py      
 │   ├── topic_modeling.py
 │   ├── feature_extraction.py
 │   ├── preprocessing.py
